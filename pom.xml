@@ -182,13 +182,11 @@
         <version>${zxcvbn.version}</version>
       </dependency>
       <!-- BDH synopsys action demo - vulnerability -->
-      <!--
       <dependency>
         <groupId>com.thoughtworks.xstream</groupId>
         <artifactId>xstream</artifactId>
         <version>${xstream.version}</version>
       </dependency>
-      -->
       <dependency>
         <groupId>cglib</groupId>
         <artifactId>cglib-nodep</artifactId>
